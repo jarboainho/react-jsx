@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ProfilePhoto from './Profile/ProfilePhoto';
 import FullName from './Profile/FullName';
